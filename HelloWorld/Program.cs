@@ -16,7 +16,7 @@ namespace HelloWorld
             //Hello World op scherm tonen
             Console.WriteLine("Hello World!");
 
-            // wachten  ...
+            // wachten...
             Console.WriteLine();
             Console.Write("Druk op Enter om af te sluiten.");
             Console.ReadLine();
